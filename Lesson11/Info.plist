@@ -41,5 +41,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>Permission need for taking picture or video</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Permission need for taking picture or video</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Permission need for saving  picture to Camera roll</string>
 </dict>
 </plist>
